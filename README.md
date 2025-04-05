@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatamadhikary018&label=Profile%20views&color=0e75b6&style=flat" alt="swagatamadhikary018" /> </p>
 
--  I’m currently learning on **Web Developer, Frontend Developer👨‍💻.**
+- 👀 I’m interested in **Frontend Development**
+
+- 🌱’m currently learning on **React👨‍💻.**
+
+- 💞️ I’m looking to collaborate on any company
 
 - 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM & ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
 
-- 🚀 Check out my Personal Portfolio😊👨‍💻 [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
-
-- 👨‍💻 Old Website Link :- [Portfolio Webiste Dark/Light Mode](https://personal-portfolio-swagatamadhikary.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/swagatamadhikary018](https://github.com/swagatamadhikary018)
+- 🚀 Check out my Personal Portfolio [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
 
 - 📝 I regularly write articles on [https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p](https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p)
 
