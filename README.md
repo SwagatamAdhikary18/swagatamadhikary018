@@ -7,7 +7,7 @@
   <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatamadhikary018&label=Profile%20views&color=0e75b6&style=flat" alt="swagatamadhikary018" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SwagatamAdhikary18&label=Profile%20views&color=0e75b6&style=flat" alt="SwagatamAdhikary18" /> </p>
 
 - 👀 I’m interested in **Frontend Development**
 
