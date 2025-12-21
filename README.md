@@ -64,6 +64,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatamAdhikary18" alt="SwagatamAdhikary18" /></p>
 
 
+<h2 align="center">⚡ Featured GIF</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Coding animation"/>
+</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
