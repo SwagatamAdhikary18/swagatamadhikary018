@@ -13,15 +13,15 @@
 
 - 👀 I’m interested in **Frontend Development**
 
-- 🌱’m currently learning on **React👨‍💻.**
+- 🚀 I’m currently learning on **React.js , NodeJs👨‍💻**
 
 - 💞️ I’m looking to collaborate on any company
 
-- 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM & ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
+- 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM(Health Plus) , ONLINE PSYCHOLOGICAL COUNSELING SYSTEM , STUDENT PERFORMANCE TRACKER(Web Application)**
 
 - 🚀 Check out my Personal Portfolio [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript and Bootstrap**
 
 - 📫 How to reach me **swagatamadhikary501@gmail.com**
 
@@ -52,47 +52,9 @@
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="25" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  <img width="12" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%20Programming-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img width="12" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img width="12" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img width="12" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img width="12" />
-</div>
- </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,react,nodejs,mongodb,mysql,git,github,netlify" />
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwagatamAdhikary18&show_icons=true&locale=en&layout=compact" alt="SwagatamAdhikary18" /></p>
