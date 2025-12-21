@@ -67,7 +67,7 @@
 <h2 align="center">⚡ Featured GIF</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Coding animation"/>
+  <img src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" width="500" alt="Coding animation"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
