@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **swagatamadhikary501@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VJOV-FrQse_uoyIhg-l2rnqk66e0QVHq/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mj4OxR_galNDxCyo9GTFpIWDgg3spB_g/view)
 
 - ⚡ Fun fact 😊
 
