@@ -29,29 +29,28 @@
 
 - ⚡ Fun fact 😊
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://twitter.com/@swagatam2003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swagatam2003" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/swagatam adhikary" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swagatam adhikary" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/swagatam adhikary" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swagatam adhikary" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/__iam__swagatammm__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__iam__swagatammm__" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/swagatam adhikary" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swagatam adhikary" height="30" width="40" />
-  </a>
+<h2 align="center">🌐 Connect with Me</h2>
 
-  
+<p align="center">
+<a href="https://x.com/Swagatam2003" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/swagatamadhikary/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="[https://www.facebook.com/swagatam.adhikary.31](https://www.facebook.com/swagatam.adhikary.31)" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/__iam__swagatammm__/" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="45" />
+</a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+
+<h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,react,nodejs,mongodb,mysql,git,github,netlify" />
 </p>
