@@ -56,8 +56,19 @@
 </p>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwagatamAdhikary18&show_icons=true&locale=en&layout=compact" alt="SwagatamAdhikary18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SwagatamAdhikary18&show_icons=true&locale=en" alt="SwagatamAdhikary18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatamAdhikary18" alt="SwagatamAdhikary18" /></p>
+
+
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">Let's connect and grow together 🚀</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
