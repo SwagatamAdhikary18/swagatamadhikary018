@@ -1,5 +1,5 @@
 
-![logo](https://github.com/swagatamadhikary018/swagatamadhikary018/blob/main/LinkedIn%20Banner%205.png)
+![logo](https://github.com/SwagatamAdhikary18/swagatamadhikary018/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Swagatam Adhikary</h1>
 <h3 align="center">👨‍💻A Passionate FrontEnd Developer from India</h3>
 <img align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
