@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" />
 </a>
 &nbsp;&nbsp;
-<a href="[https://www.facebook.com/swagatam.adhikary.31](https://www.facebook.com/swagatam.adhikary.31)" target="blank">
+<a href="[https://www.facebook.com/swagatam.adhikary](https://www.facebook.com/swagatam.adhikary.31)" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="45" />
 </a>
 &nbsp;&nbsp;
