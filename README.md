@@ -95,8 +95,8 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swagatamadhikary018&show_icons=true&locale=en&layout=compact" alt="swagatamadhikary018" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwagatamAdhikary18&show_icons=true&locale=en&layout=compact" alt="SwagatamAdhikary18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagatamadhikary018&show_icons=true&locale=en" alt="swagatamadhikary018" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SwagatamAdhikary18&show_icons=true&locale=en" alt="SwagatamAdhikary18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatamadhikary018" alt="swagatamadhikary018" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatamAdhikary18" alt="SwagatamAdhikary18" /></p>
