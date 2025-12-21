@@ -1,7 +1,9 @@
 
 ![logo](https://github.com/SwagatamAdhikary18/swagatamadhikary018/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Swagatam Adhikary</h1>
-<h3 align="center">👨‍💻A Passionate FrontEnd Developer from India</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Swagatam+Adhikary;A+Frontend+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 <img align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <div>
   <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
@@ -18,8 +20,6 @@
 - 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM & ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
 
 - 🚀 Check out my Personal Portfolio [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
-
-- 📝 I regularly write articles on [https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p](https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
